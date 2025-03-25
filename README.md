@@ -1,5 +1,5 @@
 ![cover](cover.png)
-I recently completed an in-depth training on OpenAI's latest technologies, where I explored, practiced, and built applications using state-of-the-art AI models. This training provided hands-on experience in various AI capabilities, including text generation, multimodal AI, fine-tuning, and real-time chatbot development.
+I have completed an in-depth training on OpenAI's latest technologies, where I explored, practiced, and built applications using state-of-the-art AI models. This training provided hands-on experience in various AI capabilities, including text generation, multimodal AI, fine-tuning, and real-time chatbot development.
 
 ### Key Learnings & Practical Implementations
 #### 1. Completion & Chat Completion AI
@@ -14,3 +14,7 @@ Generating and interpreting images using AI. <br>
 Training and customizing GPT models with domain-specific data. <br>
 #### Building a Telegram Bot
 Implementing a real-world chatbot using OpenAI’s latest GPT models. <br>
+ 
+ 
+** ref:**
+ https://platform.openai.com/docs/overview
