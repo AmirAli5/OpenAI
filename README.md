@@ -1,5 +1,6 @@
 ![cover](cover.png)
-I have completed an in-depth training on OpenAI's latest technologies, where I explored, practiced, and built applications using state-of-the-art AI models. This training provided hands-on experience in various AI capabilities, including text generation, multimodal AI, fine-tuning, and real-time chatbot development.
+
+This repository is all about my OpenAI learning journey, where I explored, practiced, and built applications using state-of-the-art AI models. Through this training, I gained hands-on experience in various AI capabilities, including text generation, multimodal AI, fine-tuning, and real-time chatbot development.
 
 ### Key Learnings & Practical Implementations
 #### 1. Completion & Chat Completion AI
@@ -16,5 +17,5 @@ Training and customizing GPT models with domain-specific data. <br>
 Implementing a real-world chatbot using OpenAI’s latest GPT models. <br>
  
  
-** ref:**
+### Reference
  https://platform.openai.com/docs/overview
